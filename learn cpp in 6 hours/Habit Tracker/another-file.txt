@@ -1,0 +1,6 @@
+The main concepts of c++ are,
+classes
+polymorphism
+inheritance
+pointers
+templates

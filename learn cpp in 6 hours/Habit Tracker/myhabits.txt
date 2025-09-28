@@ -1,0 +1,18 @@
+Drink Water
+Health
+1
+Excersize
+Health
+4
+Code for an hour a day
+Mind
+4
+Learn tech from chandoo channel
+Mind
+2
+Have tea with my best friend, once a week
+Mind
+2
+Learn piano everyday
+Music
+1
